@@ -1,0 +1,8 @@
+Scan 0 - Using scanner
+Scan 1 - Using scanner
+Scan 2 - Using a different scanner
+Scan 3 - Using a book scanner (picture)
+
+Var 0 (no var specified) is the base
+Var 1 is missing a sentence
+Var 2 has a diffent sentence
